@@ -1,19 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_barcode_base",
+  "%Name":"obj_barcode_upc",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_barcode_base",
+  "name":"obj_barcode_upc",
   "overriddenProperties":[],
   "parent":{
     "name":"BarcodeLab",
     "path":"BarcodeLab.yyp",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_barcode_base",
+    "path":"objects/obj_barcode_base/obj_barcode_base.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

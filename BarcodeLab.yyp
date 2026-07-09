@@ -20,7 +20,9 @@
   "name":"BarcodeLab",
   "resources":[
     {"id":{"name":"obj_barcode_base","path":"objects/obj_barcode_base/obj_barcode_base.yy",},},
+    {"id":{"name":"obj_barcode_upc","path":"objects/obj_barcode_upc/obj_barcode_upc.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"scr_utils","path":"scripts/scr_utils/scr_utils.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
